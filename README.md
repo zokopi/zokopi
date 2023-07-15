@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zokopi
 - 👀 I’m interested in programming as a whole, although back-end development intriques me most.
-- 🌱 I’m currently learning basic Javascript
+- 🌱 I’m currently learning basic machine learning algorithms
 - 💞️ I’m looking to collaborate on things later...
 - 📫 How to reach me: Tomskytm16@gmail.com
 
